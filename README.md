@@ -1,8 +1,8 @@
-# 🎬 Movie Sentiment Analyzer
+#  Movie Sentiment Analyzer
 
 A Machine Learning web application that predicts whether a movie review is Positive or Negative.
 
-## 🚀 Features
+##  Features
 - Text Preprocessing (Cleaning, Stopwords removal)
 - TF-IDF Vectorization
 - Logistic Regression Model
@@ -10,23 +10,23 @@ A Machine Learning web application that predicts whether a movie review is Posit
 - Confidence Score with Animated Progress Bar
 - Streamlit Web App UI
 
-## 📊 Model Performance
+##  Model Performance
 - Accuracy: ~89%
 - Balanced Precision & Recall
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Scikit-learn
 - NLTK
 - Streamlit
 
-## ▶ Run Locally
+##  Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-👨‍💻 Author
+ Author
 
 Mohit
 GitHub: https://github.com/mvats96714
