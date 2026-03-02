@@ -74,7 +74,7 @@ st.divider()
 st.markdown(
     """
     <div style='text-align: center; padding: 10px;'>
-        Built by <b>Mohit</b> 🚀 <br>
+        Built by <b>Mohit</b>  <br>
         <a href='https://github.com/mvats96714' target='_blank'>
             🔗 View on GitHub
         </a>
