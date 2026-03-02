@@ -2,6 +2,10 @@
 
 A Machine Learning web application that predicts whether a movie review is Positive or Negative.
 
+##  Live Demo
+
+🔗 https://sentiment-analysis-system-bqoq3izfodbzdcl3ihgdok.streamlit.app
+
 ##  Features
 - Text Preprocessing (Cleaning, Stopwords removal)
 - TF-IDF Vectorization
